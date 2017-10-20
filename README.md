@@ -24,7 +24,7 @@ In this project, we use Micro:bit to control a car/drone based on [AirSim](https
 #### Build
 * Follow the installation guide of [AirSim](https://github.com/Microsoft/AirSim) to set up the Unreal Engine and AirSim project.
 * Encode the `.hex` in source code onto Micro:bit and keep the Micro:bit connected by USB.
-* Run the AirSim project (drone by default or choosing a [Car](https://github.com/Microsoft/AirSim/blob/master/docs/using_car.md)).
+* Run the AirSim project (drone by default or [choosing a car](https://github.com/Microsoft/AirSim/blob/master/docs/using_car.md)).
 * Run the corresponding controller `.py` script in source code
 
 
