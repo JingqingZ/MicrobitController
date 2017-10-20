@@ -6,13 +6,13 @@ Team members: Nadeen Gebara, Philippos Papaphilippou, Jingqing Zhang, Ruizhe Zha
 In this collection of projects, we aim to program [Micro:bit](http://microbit.org) as a controller for games or simulators.
 
 
-## Project 1: Micro:bit with Neverball
+## Project 1: Neverball
 
-## Project 2: Micro:bit with SuperTuxKart
+## Project 2: SuperTuxKart
 
-## Project 3: Micro:bit with TORCS
+## Project 3: TORCS
 
-## Project 4: Micro:bit with AirSim
+## Project 4: AirSim
 
 Programmer: Jingqing Zhang
 
@@ -29,5 +29,5 @@ In this project, we use Micro:bit to control a car/drone based on [AirSim](https
 
 
 
-## Project 5: (Nadeen's project)
+## Project 5: Bubble Trouble
 
