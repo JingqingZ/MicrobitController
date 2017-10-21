@@ -31,12 +31,10 @@ In this project, we use Micro:bit to control a car/drone based on [AirSim](https
 
 ## Generic Controllers
 
-### 1. Single/Multi-player wireless gaming for games with keyboard support (Linux Version)
+### 1. Single/Multi-player wireless gaming for games with keyboard support (Linux)
 Programmer: Philippos Papaphilippou
 
-### 2. Windows implementation for online games (Bubble Trouble) and Multi-player modification
+### 2. Implementation for online games (Bubble Trouble) and Multi-player modification (Windows)
 Programmer: Nadeen Gebara
 
-## Video Demonstrations
-(or where they belong)
 
