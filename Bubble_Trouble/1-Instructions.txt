@@ -1,0 +1,49 @@
+Environment:
+	- Microsoft Windows 10
+	- Python version 3.5.2
+	- Required Packages:
+		1- serial   ( Serial input through COM PORT)
+		2- pyatogui (Generates Keyboard Commands in Windows)
+
+	
+Set-up:
+	A- Download Controller_Microbit(s).py onto the micro:bit(s) to be used as game controllers after making sure
+that a distinct player id is assigned to each player.
+
+	B- Download Server_Microbit.py onto a micro:bit to be used as the game server attached to the PC after specifying
+the correct COM Port number. To verify the designated COM Port:
+		1- Connect the micro:bit to your PC using the micro USB cable.
+		2- Go to device manager and expand ports
+		3- Determine the COM Port number assigned to mbed Serial Port.
+
+	C- Run the python script Game_Control_Parser.py in a terminal.
+		python Game_Control_Parser.py
+
+	D- Open the online game: https://www.miniclip.com/games/bubble-trouble/en/#t-ss-S
+
+
+Playing the game:
+
+	A- The server microbit first asks whether the game option to be chosen is 1 or 2 players.
+	   Selecting the pushbutton A indicates one player, whereas pushbutton B indicates two players
+	   Once you are happy with your choice, press the two pushbuttons simultaneously for selection.
+	   The word GO! flashes on the screen indicating the server is ready.
+
+	B- Since two control modes are implemented on the game controller micro:bit(s), a player is asked whether
+           he/she wishes to use control mode 1 or 2.
+
+	   Control Mode 1 (Purely dependent on Accelerometer):
+		Titlting the micro:bit to the right --> go right
+		Tilting the micro:bit to the left --> go left	
+		Tilting the micro:bit upwards --> fire rope
+
+	   Control Mode 2 (Push Buttons and Accelerometer):
+		Pressing PushButton B --> go right
+		Pressing PushButton A --> go left	
+		Tilting the micro:bit upwards --> fire rope
+
+           Similar to choosing the number of players, pushbutton A indicates mode 1, whereas pushbutton B indicates mode 2.
+	   Hold both buttons simultaneously upon selection to start playing.
+	   Your Micro:bit player id should appear on the screen indicating that your controller is ready for use.
+
+	C- Select 1/2 players similarly on the PC screen and start playing !
