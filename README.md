@@ -46,4 +46,10 @@ Programmer: Philippos Papaphilippou
 ### 2. Implementation for online games (Bubble Trouble) and Multi-player modification (Windows)
 Programmer: Nadeen Gebara
 
+In this project, we use Bubble Trouble as an example to show how a generic controller for online games (single/multi-player) can be created using micro:bit(s).
+
+* Online Game Link: https://www.miniclip.com/games/bubble-trouble/en/#t-sd
+
+
+
 
