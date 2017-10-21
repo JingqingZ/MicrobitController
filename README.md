@@ -10,9 +10,15 @@ In this collection of projects, we aim to program [Micro:bit](http://microbit.or
 
 Programmer: Philippos Papaphilippou
 
+* Source code: 
+* Video: [Controlling Neverball with micro:bit](https://www.youtube.com/watch?v=hTfFDC1JrFI)
+
 ### Application 2: TORCS
 
 Programmer: Ruizhe Zhao
+
+* Source code: 
+* Video: [Controlling TORCS with micro:bit](https://www.youtube.com/watch?v=RPB93Nunz84)
 
 ### Application 3: AirSim
 
@@ -33,6 +39,9 @@ In this project, we use Micro:bit to control a car/drone based on [AirSim](https
 
 ### 1. Single/Multi-player wireless gaming for games with keyboard support (Linux)
 Programmer: Philippos Papaphilippou
+
+* Source code: 
+* Video: [Multi-player wireless gaming with micro:bits](https://www.youtube.com/watch?v=YR-1VejseQA)
 
 ### 2. Implementation for online games (Bubble Trouble) and Multi-player modification (Windows)
 Programmer: Nadeen Gebara
