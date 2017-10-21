@@ -1,0 +1,11 @@
+{
+  "name": "microbit-game-controller",
+  "version": "0.1.0",
+  "description": "Micro:bit Game Controller",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}

@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# build the project
+yt build
+
+# copy the project
+cp \
+  build/bbc-microbit-classic-gcc/source/microbit-game-controller-combined.hex \
+  /media/$USER/MICROBIT
+
+# finished
+echo 'DEPLOYED!'
+
