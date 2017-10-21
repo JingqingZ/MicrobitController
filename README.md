@@ -42,7 +42,13 @@ In this project, we use Micro:bit to control a car/drone based on [AirSim](https
 ### 1. Single/Multi-player wireless gaming for games with keyboard support (Linux)
 Programmer: Philippos Papaphilippou
 
-* Source code: 
+This project consists of 3 files. (see the source code comments for mor information)
+* microbit-client.py: Uploaded to the micro:bit of each player for wireless gaming
+* microbit-server.py: Uploaded to the micro:bit connected to the PC
+* linux-keyboard.c: Translates the serial output of the micro:bit server to keyboard events
+
+* Required libraries: libXtst-devel (or equivalent)
+* Source code: [GenericLinuxController](GenericLinuxController/)
 * Video: [Multi-player wireless gaming with micro:bits](https://www.youtube.com/watch?v=YR-1VejseQA)
 
 ### 2. Implementation for online games (Bubble Trouble) and Multi-player modification (Windows)
