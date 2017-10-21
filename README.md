@@ -1,8 +1,8 @@
-# MicrobitController
-
-Team members: Nadeen Gebara, Philippos Papaphilippou, Jingqing Zhang, Ruizhe Zhao (order by surname)
+# Gaming Controllers with micro:bit(s)
 
 In this collection of projects, we aim to program [Micro:bit](http://microbit.org) as a controller for games or simulators.
+
+Team members: Nadeen Gebara, Philippos Papaphilippou, Jingqing Zhang, Ruizhe Zhao (order by surname)
 
 ## Modified Games
 
