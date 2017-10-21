@@ -20,6 +20,7 @@ import time
 import pyautogui
 
 #Serial Port Initializations
+##Make sure the right COM Port is set as described in instructions
 port="COM3"
 baud=115200
 ser=serial.Serial(port,baud)
