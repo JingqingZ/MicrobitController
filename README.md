@@ -2,7 +2,7 @@
 
 In this collection of projects, we aim to program [Micro:bit](http://microbit.org) as a controller for games or simulators.
 
-![alt text](https://github.com/JingqingZ/MicrobitController/blob/master/featured-image.jpg)
+![2 gamers playing SuperTuxKart with wireless micro:bits](https://github.com/JingqingZ/MicrobitController/blob/master/featured-image.jpg)
 
 Team members: Nadeen Gebara, Philippos Papaphilippou, Jingqing Zhang, Ruizhe Zhao (order by surname)
 
@@ -12,8 +12,12 @@ Team members: Nadeen Gebara, Philippos Papaphilippou, Jingqing Zhang, Ruizhe Zha
 
 Programmer: Philippos Papaphilippou
 
-* Source code: 
-* Video: [Controlling Neverball with micro:bit](https://www.youtube.com/watch?v=hTfFDC1JrFI)
+"Tilt the floor to roll a ball through an obstacle course within the given time." [Neverball](https://neverball.org/)
+
+This is a version of Neverball that supports micro:bit as a controller. It uses micro:bit's accelerometer as a gyroscope to adjust the angle of the floor. See the project's Readme description for more details and information on how to run.
+
+* Source code: [Neverball for micro:bit](neverball/)
+* Video: [Controlling Neverball with micro:bit](https://www.youtube.com/watch?v=hTfFDC1JrFI), [close-up](https://www.youtube.com/watch?v=nzTZKqwdBv8)
 
 ### Application 2: TORCS
 
@@ -28,7 +32,7 @@ Programmer: Jingqing Zhang
 
 In this project, we use Micro:bit to control a car/drone based on [AirSim](https://github.com/Microsoft/AirSim).
 
-* Source code: [AirSimController/](AirSimController/)
+* Source code: [AirSimController](AirSimController/)
 * Videos: [Driving a Car](https://youtu.be/zstsjKxvT5Q), [Driving a Drone](https://youtu.be/9aTPj4cjNWE)
 
 #### Build
@@ -42,6 +46,8 @@ In this project, we use Micro:bit to control a car/drone based on [AirSim](https
 ### 1. Single/Multi-player wireless gaming for games with keyboard support (Linux)
 
 Programmer: Philippos Papaphilippou
+
+This project maps actions on wirelessly-connected micro:bits to keyboard events. In this way, a variety of multi-player games can be adapted without the need to modify their source code. As a test case we used [SuperTuxKart](https://supertuxkart.net/Main_Page). See the featured image above, or the video below.
 
 * Source code: [GenericLinuxController](GenericLinuxController/)
 * Video: [Multi-player wireless gaming with micro:bits](https://www.youtube.com/watch?v=YR-1VejseQA)
@@ -57,9 +63,9 @@ Programmer: Nadeen Gebara
 
 In this project, we use Bubble Trouble as an example to show how a generic controller for online games (single/multi-player) can be created using micro:bit(s).
 
-* Online Game Link: https://www.miniclip.com/games/bubble-trouble/en/#t-sd
-* Game details: https://github.com/JingqingZ/MicrobitController/blob/master/Bubble_Trouble/Readme.txt
-* Video: https://www.youtube.com/watch?v=IXL3BHeTE38
+* Online Game: [Link](https://www.miniclip.com/games/bubble-trouble/en/#t-sd)
+* Game details: [Readme](https://github.com/JingqingZ/MicrobitController/blob/master/Bubble_Trouble/Readme.txt)
+* Video: [Bubble Trouble Control with Micro:bit](https://www.youtube.com/watch?v=IXL3BHeTE38)
 
 
 
