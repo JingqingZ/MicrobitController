@@ -16,7 +16,7 @@ Programmer: Philippos Papaphilippou
 
 This is a version of Neverball that supports micro:bit as a controller. It uses micro:bit's accelerometer as a gyroscope to adjust the angle of the floor. See the project's Readme description for more details and information on how to run.
 
-* Source code: [Neverball for micro:bit](neverball/)
+* Source code: [Neverball for micro:bit](https://github.com/pphilippos/Neverball-for-micro-bit)
 * Video: [Controlling Neverball with micro:bit](https://www.youtube.com/watch?v=hTfFDC1JrFI), [close-up](https://www.youtube.com/watch?v=nzTZKqwdBv8)
 
 ### Application 2: TORCS
@@ -49,7 +49,7 @@ Programmer: Philippos Papaphilippou
 
 This project maps actions on wirelessly-connected micro:bits to keyboard events. In this way, a variety of multi-player games can be adapted without the need to modify their source code. As a test case we used [SuperTuxKart](https://supertuxkart.net/Main_Page). See the featured image above, or the video below.
 
-* Source code: [GenericLinuxController](GenericLinuxController/)
+* Source code: [GenericLinuxController](https://github.com/pphilippos/Wireless-Gaming-with-micro-bits)
 * Video: [Multi-player wireless gaming with micro:bits](https://www.youtube.com/watch?v=YR-1VejseQA)
 
 #### Files 
